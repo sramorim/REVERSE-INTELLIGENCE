@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/
+build/
+.gradle/
+*.keystore
+*.jks
+!backend/test/fixtures/**
+local.properties
+.DS_Store
